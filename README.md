@@ -1,2 +1,3 @@
-# meshindojayatama.github.io
-github meshindo jayatama
+# Terima kasih
+
+Github **Meshindo Jayatama**
